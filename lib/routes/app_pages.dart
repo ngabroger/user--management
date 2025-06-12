@@ -13,7 +13,7 @@ final appPages = [
   GetPage(
     name: Routes.forgotPassword,
     page: () => ForgotPasswordView(),
-  ), // Assuming forgot password uses the same view
+  ),
   GetPage(name: Routes.home, page: () => HomeView()),
   GetPage(name: Routes.profile, page: () => ProfileView()),
   GetPage(
