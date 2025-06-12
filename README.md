@@ -1,16 +1,27 @@
-# user_management
+# User Management
 
-A new Flutter project.
+Aplikasi Flutter untuk manajemen user dengan fitur lengkap.
 
-## Getting Started
+## Fitur Aplikasi
 
-This project is a starting point for a Flutter application.
+- **Autentikasi**: Login, register, dan lupa password.
+- **Manajemen Profil**: Lihat dan edit profil, termasuk update nama, email, dan foto profil (avatar).
+- **Upload & Crop Avatar**: Pengguna dapat memilih dan crop foto profil sebelum upload.
+- **Daftar User**: Menampilkan daftar user dengan pagination (infinite scroll).
+- **Detail User**: Lihat detail lengkap user lain.
+- **Logout**: Keluar dari aplikasi dengan aman.
 
-A few resources to get you started if this is your first Flutter project:
+## Catatan Kekurangan (Minus)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Foto profil/Avatar**: Pada beberapa device, foto profil tidak dapat diakses atau ditampilkan karena keterbatasan akses storage atau masalah URL backend.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APK Release
+
+Unduh APK release aplikasi pada link berikut:  
+[Link Google Drive APK Release](https://drive.google.com/drive/folders/1aDoAdIROmzSGtwQ2yo5_6x4AMvWH4XEb?usp=drive_link)
+
+---
+
+Untuk pengembangan lebih lanjut, silakan cek dokumentasi Flutter:  
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Flutter Cookbook](https://docs.flutter.dev/cookbook)
